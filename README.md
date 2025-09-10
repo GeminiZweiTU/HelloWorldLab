@@ -1,1 +1,1 @@
-# This is the Lab 1 Assignment H.O.
+# This is the Lab 1 Assignment
